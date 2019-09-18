@@ -10,6 +10,16 @@ var email = "kmancilla1@ucol.mx"
 var numero1 = 5
 var numero2 = 2
 
+console.log(numero1)
+numero1 = numero1 + 1
+console.log(numero1)
+numero1++
+console.log(numero1)
+numero1 = numero1 - 1
+console.log(numero1)
+numero1--
+console.log(numero1)
+
 console.log(50 + 10 / 8 + 2)
 console.group((50 + 10) / (8 + 2))
 
